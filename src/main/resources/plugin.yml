@@ -1,0 +1,7 @@
+name: Magic
+version: '${project.version}'
+main: me.rosux.magic.Magic
+api-version: 1.19
+authors: [ Rosux ]
+description: Add a little magic to your world.
+website: https://github.com/Rosux
